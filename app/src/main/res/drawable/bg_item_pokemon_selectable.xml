@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ripple android:color="@color/grey_700"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+    <item android:drawable="@drawable/bg_item_pokemon" />
+    <item android:id="@android:id/mask">
+        <shape>
+            <solid android:color="@color/grey_200" />
+            <corners android:radius="@dimen/pokemon_item_radius" />
+        </shape>
+    </item>
+</ripple>

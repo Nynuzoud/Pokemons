@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Pokemons</string>
+
+    <!-- Errors -->
+    <string name="unknown_error">Unknown error.</string>
+    <string name="server_error">Server error.</string>
+    <string name="timeout_error">Can\'t connect to the server.\nPlease, try again later.</string>
+</resources>
